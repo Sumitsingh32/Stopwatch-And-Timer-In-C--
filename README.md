@@ -1,5 +1,5 @@
-# Clock-and-Stopwatch-in-C
- Clock-and-Stopwatch-made-in-C
+# Clock-and-Stopwatch-in-C++
+ Clock-and-Stopwatch-made-in-C++
  
  
  On runing the C++ program it will ask to choose form Timer and the Stopwatch
